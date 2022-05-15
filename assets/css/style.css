@@ -4,6 +4,44 @@
     --tertiary-color: #E0E1DD;
 
 }
+/* Header */
+header {
+    background-color: var(--secondary-color);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+header h1 {
+    color: var(--tertiary-color);
+    font-size: 36px;
+    margin: 0;
+    padding: 8px;
+}
+
+header nav {
+    margin: 12 px;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+header nav ul li a {
+    color: var(--tertiary-color);
+    font-size: 1.55vw;
+    padding: 30px;
+}
+
 body {
     background-color: var(--primary-color);
     color: var(--secondary-color);
