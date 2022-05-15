@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../projects/run-buddy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bethanyshoun-portfolio"
+	}
+}
