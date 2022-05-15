@@ -24,3 +24,5 @@ https://unsplash.com/photos/_bVQXAYsWSk?utm_source=unsplash&utm_medium=referral&
 
 ### Stock Photo 5
 https://unsplash.com/photos/9IBulDjdGIk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink Photo by Em M.
+
+### Color Palette Selection with coolors.co

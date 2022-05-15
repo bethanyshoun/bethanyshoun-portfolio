@@ -1,1 +1,14 @@
-/* Style Sheet */
+:root {
+    --primary-color: #778DA9;
+    --secondary-color: #1B263B;
+    --tertiary-color: #E0E1DD;
+
+}
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+.section-title {
+    color: var(--tertiary-color);
+}
+
