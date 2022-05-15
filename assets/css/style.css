@@ -7,8 +7,100 @@
 body {
     background-color: var(--primary-color);
     color: var(--secondary-color);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+section {
+    padding: 40px;
 }
 .section-title {
+    font-size: 50px;
     color: var(--tertiary-color);
+    text-align: center;
+    border-bottom: 3px solid;
+    padding-bottom: 10px;
+    border-color:#1B263B;
+    width: 35%;
+    margin: 0 auto 25px auto;
+    
 }
 
+.about-section {
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+
+.work-section {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.work-section h3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.work-section article {
+    padding: 25px;
+    margin: 15px;
+}
+
+/*.project-border {
+    background-color: 1B263B;
+    background-size: 80%;
+} */
+
+.project1 img {
+    display: block;
+    margin: auto;
+    width: 75%;
+}
+/* Projects 2-5 */
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 20%;
+    padding: 5px;
+}
+
+.project2 img {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    width: 25%;
+}
+
+.project3 img {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    width: 25%;
+}
+
+.project4 img {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    width: 25%;
+}
+
+.project5 img {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    width: 25%;
+}
