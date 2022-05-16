@@ -223,12 +223,39 @@ footer {
     header nav ul {
         width: 100%;
         justify-content: center;
-        align-items: center;
-        padding: 20px;
+        margin: auto;
+        padding: 7px;
     }
 }
 
 /* MEDIA QUERY- Tablets and smaller */
 @media screen and (max-width: 768px) {
-    
+    section {
+        padding: 15px;
+    }
+    .section-title {
+        font-size: 70px;
+        width: 55%;
+    }
+    header nav ul li a {
+        font-size: 20px;
+    }
+    .projects {
+        flex: 0;
+    }
+    .project-row1, .project-row2 {
+        flex: 0 70%;
+    }
+}
+
+/* MEDIA QUERY- For mobile phones and smaller */
+@media screen and (max-width: 575px) {
+    section {
+        padding: 10px;
+    }
+    .section-title {
+        font-size: 60px;
+        width: 70%;
+        border-bottom: none;
+    }
 }
