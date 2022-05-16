@@ -210,3 +210,25 @@ footer {
 }
 
 /* MEDIA QUERY- Smaller desktop screens and smaller */
+@media screen and (max-width: 980px) {
+    header {
+        padding-bottom: 0;
+        justify-content: center;
+        position: relative;
+    }
+    header h1 {
+        width: 100%;
+        text-align: center;
+    }
+    header nav ul {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+}
+
+/* MEDIA QUERY- Tablets and smaller */
+@media screen and (max-width: 768px) {
+    
+}
