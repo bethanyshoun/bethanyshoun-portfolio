@@ -19,9 +19,10 @@ I was able to format the header with navigation- and the footer in CSS relativel
 
 My final steps were to outline and fill in the README file and add the needed sections to deploy my first from-scratch website.
 
+For my first group project we created a web application called Cat Genie. I updated the placeholder image and link for project 1 to reflect this project. I opened the link in a blank tab by setting the target to _blank. 
 
 ## Image of the Live Page
-![Portfolio Screenshot](/assets/images/Bethany%20A.%20Shoun.png)
+![Portfolio Screenshot](/assets/images/live_site_image.png)
 
 
 ## Link to Deployed Page
@@ -29,9 +30,6 @@ https://bethanyshoun.github.io/bethanyshoun-portfolio/
 
 
 ## Credits
-Stock Photo 1 
-https://unsplash.com/photos/cNtMy74-mnI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink Photo by Giulia May
-
 Stock Photo 2
 https://unsplash.com/photos/U2-4RAefiFw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink Photo by Xuan Nguyen
 
